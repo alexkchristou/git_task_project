@@ -1,7 +1,7 @@
 # This is a program for the git exercise
 
 # ---------------- Program Start ---------------- #
-
-print('Git is Awesome!')
+data = input("please provide a text: ")
+print(data)
 
 # ---------------- Program End ---------------- #
